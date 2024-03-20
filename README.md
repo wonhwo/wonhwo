@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=rect&text=welcome&animation=fadeIn)
   ###  웹 개발자 취직을 원하는 신입 개발자 입니다. 👋
-<center>![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)</center><br>
+<center>![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)</center></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
