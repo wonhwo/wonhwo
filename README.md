@@ -1,6 +1,5 @@
 
  ![header](https://capsule-render.vercel.app/api?type=rect&text=welcome&animation=fadeIn)
- ###  #웹 개발자 취직을 원하는 신입 개발자 입니다. 👋###
  
  <br/>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)<br/>
