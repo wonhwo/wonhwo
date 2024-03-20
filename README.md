@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&text=welcom to my GitHub)
+![header](https://capsule-render.vercel.app/api?type=rect&text=머야 왜 안돼)
 <!--
 **wonhwo/wonhwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
